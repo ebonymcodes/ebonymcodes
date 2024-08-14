@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ebony
 - 👀 I’m interested in all things coding
 - 🌱 I’m currently learning front-end web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin.com/in/ebonymyers
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My family says I'm a nerd
