@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Ebony
 - 👀 I’m interested in all things coding
 - 🌱 I’m currently learning front-end web development
-- 📫 How to reach me linkedin.com/in/ebonymyers
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: My family says I'm a nerd
+- 📫 How to reach me: linkedin.com/in/ebonymyers
+- 😄 Pronouns: She/Her
 
 <!---
 ebonymcodes/ebonymcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
